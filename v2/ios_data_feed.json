@@ -1,7 +1,7 @@
 {
   "Version": "2.0",
-  "UpdateHash": "f430879e4a89dfa94c92def4dcf1f8cbcccdb39ff7ccb3553894e10e249eead7",
-  "LastCheck": "2026-03-20T12:49:14.424810745+00:00",
+  "UpdateHash": "0d09b83c18739b70ab044927b6a4945f3c4d9f50bec344121645f6bcdd3ec39f",
+  "LastCheck": "2026-03-20T17:20:07.670770631+00:00",
   "OSVersions": [
     {
       "OSVersion": "26",
@@ -839,11 +839,24 @@
             "CVE-2025-43502": {},
             "CVE-2025-43503": {},
             "CVE-2025-43507": {},
-            "CVE-2025-43510": {},
-            "CVE-2025-43520": {},
+            "CVE-2025-43510": {
+              "nist_url": "https://nvd.nist.gov/vuln/detail/CVE-2025-43510",
+              "actively_exploited": true,
+              "in_kev": true,
+              "severity": "Critical"
+            },
+            "CVE-2025-43520": {
+              "nist_url": "https://nvd.nist.gov/vuln/detail/CVE-2025-43520",
+              "actively_exploited": true,
+              "in_kev": true,
+              "severity": "Critical"
+            },
             "CVE-2025-46316": {}
           },
-          "ActivelyExploitedCVEs": [],
+          "ActivelyExploitedCVEs": [
+            "CVE-2025-43520",
+            "CVE-2025-43510"
+          ],
           "UniqueCVEsCount": 62,
           "DaysSincePreviousRelease": 35,
           "DeviceScope": "universal",
@@ -1444,11 +1457,24 @@
             "CVE-2025-43499": {},
             "CVE-2025-43503": {},
             "CVE-2025-43507": {},
-            "CVE-2025-43510": {},
+            "CVE-2025-43510": {
+              "nist_url": "https://nvd.nist.gov/vuln/detail/CVE-2025-43510",
+              "actively_exploited": true,
+              "in_kev": true,
+              "severity": "Critical"
+            },
             "CVE-2025-43511": {},
-            "CVE-2025-43520": {}
+            "CVE-2025-43520": {
+              "nist_url": "https://nvd.nist.gov/vuln/detail/CVE-2025-43520",
+              "actively_exploited": true,
+              "in_kev": true,
+              "severity": "Critical"
+            }
           },
-          "ActivelyExploitedCVEs": [],
+          "ActivelyExploitedCVEs": [
+            "CVE-2025-43520",
+            "CVE-2025-43510"
+          ],
           "UniqueCVEsCount": 38,
           "DaysSincePreviousRelease": 37,
           "DeviceScope": "universal",
@@ -1631,7 +1657,12 @@
             "CVE-2025-31229": {},
             "CVE-2025-31273": {},
             "CVE-2025-31276": {},
-            "CVE-2025-31277": {},
+            "CVE-2025-31277": {
+              "nist_url": "https://nvd.nist.gov/vuln/detail/CVE-2025-31277",
+              "actively_exploited": true,
+              "in_kev": true,
+              "severity": "Critical"
+            },
             "CVE-2025-31278": {},
             "CVE-2025-31281": {},
             "CVE-2025-43186": {},
@@ -1667,6 +1698,7 @@
             "CVE-2025-7425": {}
           },
           "ActivelyExploitedCVEs": [
+            "CVE-2025-31277",
             "CVE-2025-6558"
           ],
           "UniqueCVEsCount": 32,
