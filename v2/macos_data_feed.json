@@ -1,7 +1,7 @@
 {
   "Version": "2.0",
-  "UpdateHash": "58955d135aced7ea3e8c0f521e88340d1abfd52a2eac4c8b208f984d9ee24219",
-  "LastCheck": "2026-03-24T18:05:59.173594221+00:00",
+  "UpdateHash": "0335788ca1d54ada645818744139173c61cd6d5cde19bb73e7bfb9be318588d9",
+  "LastCheck": "2026-03-24T18:29:07.361098114+00:00",
   "OSVersions": [
     {
       "OSVersion": "Tahoe 26",
@@ -15661,7 +15661,7 @@
           "AllBuilds": [],
           "ReleaseDate": "2021-09-20T00:00:00Z",
           "ReleaseType": "OS",
-          "SecurityInfo": "https://support.apple.com/kb/HT213444",
+          "SecurityInfo": "https://support.apple.com/en-us/121753",
           "SecurityInfoContext": "macOS 12.0 was released on . This update has no published CVE entries. Newer updates are now available, so please check to see if they apply to your devices.",
           "SupportedDevices": [
             "J132AP",
@@ -17014,9 +17014,9 @@
     "ReleaseDate": "2026-03-17T17:03:09Z"
   },
   "XProtectPayloads": {
+    "com.apple.XProtectFramework.XProtect": "157",
     "com.apple.XprotectFramework.PluginService": "74",
-    "ReleaseDate": "2026-03-17T17:03:09Z",
-    "com.apple.XProtectFramework.XProtect": "157"
+    "ReleaseDate": "2026-03-17T17:03:09Z"
   },
   "BackgroundSecurityImprovements": {
     "26": [
@@ -17163,6 +17163,15 @@
       },
       {
         "title": "macOS Sequoia",
+        "version": "15.7.5",
+        "build": "24G624",
+        "apple_slug": "047-96175",
+        "url": "https://swcdn.apple.com/content/downloads/22/06/047-96175-A_196UW6QK9G/dx1bmt6mb0q3llh0iyingau9ld5liod96r/InstallAssistant.pkg",
+        "posting_date": "2026-03-24T18:11:18Z",
+        "size": 15662743039
+      },
+      {
+        "title": "macOS Sequoia",
         "version": "15.7.4",
         "build": "24G517",
         "apple_slug": "047-48630",
@@ -17187,6 +17196,15 @@
         "url": "https://swcdn.apple.com/content/downloads/23/34/093-99065-A_B4TEYIISAM/1a1ddvynvgdh82ev879kh13y2a3trwr18v/InstallAssistant.pkg",
         "posting_date": "2025-11-03T21:41:50Z",
         "size": 15658844828
+      },
+      {
+        "title": "macOS Sonoma",
+        "version": "14.8.5",
+        "build": "23J423",
+        "apple_slug": "047-96015",
+        "url": "https://swcdn.apple.com/content/downloads/23/16/047-96015-A_F2ZJ8P7940/aknn1yshpkeeg1l3hgz7saai1d0zguw31y/InstallAssistant.pkg",
+        "posting_date": "2026-03-24T18:12:54Z",
+        "size": 13674180450
       },
       {
         "title": "macOS Sonoma",
@@ -17262,10 +17280,10 @@
       }
     ],
     "LatestMacIPSW": {
-      "macos_ipsw_url": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
-      "macos_ipsw_build": "25D2128",
-      "macos_ipsw_version": "26.3.1",
-      "macos_ipsw_apple_slug": "047-88313"
+      "macos_ipsw_url": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/122-00766/062A6121-2ABE-45D7-BCB1-72B666B6D2C2/UniversalMac_26.4_25E246_Restore.ipsw",
+      "macos_ipsw_build": "25E246",
+      "macos_ipsw_version": "26.4",
+      "macos_ipsw_apple_slug": "122-00766"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
-  "update_hash": "sha256:cf6d1662670f272c4dd39251fbedd9de9cf13b759b6ba70ec712efe17858db59",
-  "total_products": 17,
+  "update_hash": "sha256:5d7a1c25824124270be64d914f69151a6a1e9a6323fa59b3822420c7df2bf569",
+  "total_products": 19,
   "categories": {
-    "macOS": 17
+    "macOS": 19
   },
   "catalog_url": "https://swscan.apple.com/content/catalogs/others/index-14-13-12-10.16-10.15-10.14-10.13-10.12-10.11-10.10-10.9-mountainlion-lion-snowleopard-leopard.merged-1.sucatalog",
   "products": [
@@ -61,6 +61,15 @@
       "download_url": "https://swcdn.apple.com/content/downloads/60/34/089-04325-A_JAKF079NR4/fjimp3su7pvbg0o6sf3kus7k989finz274/InstallAssistant.pkg"
     },
     {
+      "product_key": "047-96175",
+      "title": "macOS Sequoia",
+      "version": "15.7.5",
+      "build": "24G624",
+      "posting_date": "2026-03-24T18:11:18Z",
+      "size": 15662743039,
+      "download_url": "https://swcdn.apple.com/content/downloads/22/06/047-96175-A_196UW6QK9G/dx1bmt6mb0q3llh0iyingau9ld5liod96r/InstallAssistant.pkg"
+    },
+    {
       "product_key": "047-48630",
       "title": "macOS Sequoia",
       "version": "15.7.4",
@@ -86,6 +95,15 @@
       "posting_date": "2025-11-03T21:41:50Z",
       "size": 15658844828,
       "download_url": "https://swcdn.apple.com/content/downloads/23/34/093-99065-A_B4TEYIISAM/1a1ddvynvgdh82ev879kh13y2a3trwr18v/InstallAssistant.pkg"
+    },
+    {
+      "product_key": "047-96015",
+      "title": "macOS Sonoma",
+      "version": "14.8.5",
+      "build": "23J423",
+      "posting_date": "2026-03-24T18:12:54Z",
+      "size": 13674180450,
+      "download_url": "https://swcdn.apple.com/content/downloads/23/16/047-96015-A_F2ZJ8P7940/aknn1yshpkeeg1l3hgz7saai1d0zguw31y/InstallAssistant.pkg"
     },
     {
       "product_key": "047-48595",
