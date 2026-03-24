@@ -1,7 +1,7 @@
 {
   "Version": "2.0",
-  "UpdateHash": "3b746f5911c53850dbaa61206524c3730eb0ad54cd2c7dbad56a8d8f0b1797be",
-  "LastCheck": "2026-03-24T12:50:06.897313429+00:00",
+  "UpdateHash": "656a44e5e5b7ecb2260bc05c17e54cb30206ea046444b53e83e26d68da24ed0e",
+  "LastCheck": "2026-03-24T17:26:54.619349347+00:00",
   "OSVersions": [
     {
       "OSVersion": "26",
@@ -601,7 +601,7 @@
             "23C55"
           ],
           "ReleaseDate": "2025-12-12T00:00:00Z",
-          "ExpirationDate": "2026-05-12",
+          "ExpirationDate": "2026-04-26",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/125884",
           "SecurityInfoContext": "iOS 26.2 was released on December 12, 2025. This release addressed 37 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
