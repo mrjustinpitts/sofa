@@ -1,7 +1,7 @@
 {
   "Version": "2.0",
-  "UpdateHash": "1619f232344e000a6f578b154ed6042b0093009b4bf5a81f3c9ab68efe9ab2a8",
-  "LastCheck": "2026-03-25T06:50:27.369444859+00:00",
+  "UpdateHash": "96bbdbaf6c4e1fb378abd7c4f5c3a3fb17ce8369f8578b43e300a5bb34743556",
+  "LastCheck": "2026-03-25T12:50:02.301899420+00:00",
   "OSVersions": [
     {
       "OSVersion": "26",
@@ -826,7 +826,7 @@
           "ExpirationDate": "2026-04-26",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/125884",
-          "SecurityInfoContext": "iOS 26.2 was released on December 12, 2025. This release addressed 37 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
+          "SecurityInfoContext": "iOS 26.2 was released on December 12, 2025. This release addressed 38 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
           "SupportedDevices": [
             "iPad11,1",
             "iPad11,2",
@@ -941,6 +941,7 @@
             "CVE-2025-43531": {},
             "CVE-2025-43532": {},
             "CVE-2025-43533": {},
+            "CVE-2025-43534": {},
             "CVE-2025-43535": {},
             "CVE-2025-43536": {},
             "CVE-2025-43537": {},
@@ -972,12 +973,12 @@
             "CVE-2025-43529",
             "CVE-2025-14174"
           ],
-          "UniqueCVEsCount": 37,
+          "UniqueCVEsCount": 38,
           "DaysSincePreviousRelease": 39,
           "DeviceScope": "universal",
           "update_summary": {
             "priority": "high",
-            "summary": "Addresses 37 security issues",
+            "summary": "Addresses 38 security issues",
             "recommendation": "Update to stay secure - security fixes available",
             "stats": {
               "exploited": 0,
@@ -986,7 +987,7 @@
               "medium": 0,
               "low": 0,
               "remote": 0,
-              "total": 37
+              "total": 38
             }
           }
         },
