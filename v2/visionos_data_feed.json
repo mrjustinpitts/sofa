@@ -1,8 +1,8 @@
 {
   "OSName": "visionOS",
   "Version": "2.0",
-  "UpdateHash": "5b9088f6ca5511373445f8dd24ad785fd88ae68951e1b5cb413cb9d573baadf6",
-  "LastCheck": "2026-03-26T18:50:56.186463144+00:00",
+  "UpdateHash": "02541dc82ff9093c65e736ffeb33c08718eb2cc44394e49bfea85027f56d8dd1",
+  "LastCheck": "2026-03-26T19:30:32.532919426+00:00",
   "OSVersions": [
     {
       "OSVersion": "visionOS 26",
@@ -191,7 +191,7 @@
           "ExpirationDate": "2026-05-27",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/126353",
-          "SecurityInfoContext": "visionOS 26.3 was released on February 11, 2026. This release addressed 29 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
+          "SecurityInfoContext": "visionOS 26.3 was released on February 11, 2026. This release addressed 31 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
           "SupportedDevices": [
             "RealityDevice14,1",
             "RealityDevice17,1"
@@ -222,6 +222,7 @@
             "CVE-2026-20634": {},
             "CVE-2026-20635": {},
             "CVE-2026-20636": {},
+            "CVE-2026-20637": {},
             "CVE-2026-20641": {},
             "CVE-2026-20644": {},
             "CVE-2026-20650": {},
@@ -229,6 +230,7 @@
             "CVE-2026-20653": {},
             "CVE-2026-20654": {},
             "CVE-2026-20660": {},
+            "CVE-2026-20668": {},
             "CVE-2026-20671": {},
             "CVE-2026-20675": {},
             "CVE-2026-20676": {},
@@ -244,11 +246,11 @@
             "CVE-2025-43529",
             "CVE-2025-14174"
           ],
-          "UniqueCVEsCount": 29,
+          "UniqueCVEsCount": 31,
           "DaysSincePreviousRelease": 61,
           "update_summary": {
             "priority": "high",
-            "summary": "Addresses 29 security issues",
+            "summary": "Addresses 31 security issues",
             "recommendation": "Update to stay secure - security fixes available",
             "stats": {
               "exploited": 0,
@@ -257,7 +259,7 @@
               "medium": 0,
               "low": 0,
               "remote": 0,
-              "total": 29
+              "total": 31
             }
           }
         },
