@@ -1,7 +1,7 @@
 {
-  "content_hash": "209735d2ac00db6b1caca17c2e9179fa9abd7d29c831ac7b097c5689c061029f",
+  "content_hash": "f5f70f5c11d224b9271720dd8a609a2a0cffd97d8690aefe26f2b682870de949",
   "content_changed": true,
-  "generated_at": "2026-03-24T18:29:08.019316732Z",
+  "generated_at": "2026-03-30T18:29:51.947751842Z",
   "latest_releases": {
     "macos": {
       "version": "26.4",
@@ -297,19 +297,19 @@
       "updates_link": null
     },
     "safari": {
-      "version": "26.3",
-      "build": "26.3",
-      "release_date": "2026-02-11T00:00:00Z",
-      "url": "https://support.apple.com/en-us/126354",
+      "version": "26.4",
+      "build": "26.4",
+      "release_date": "2026-03-24T00:00:00Z",
+      "url": "https://support.apple.com/en-us/126800",
       "cves_fixed": [
-        "CVE-2026-20608",
-        "CVE-2026-20635",
-        "CVE-2026-20636",
-        "CVE-2026-20644",
-        "CVE-2026-20652",
-        "CVE-2026-20656",
-        "CVE-2026-20660",
-        "CVE-2026-20676"
+        "CVE-2026-20643",
+        "CVE-2026-20664",
+        "CVE-2026-20665",
+        "CVE-2026-20691",
+        "CVE-2026-28857",
+        "CVE-2026-28859",
+        "CVE-2026-28861",
+        "CVE-2026-28871"
       ],
       "actively_exploited_count": 0,
       "total_cve_count": 8,
@@ -318,21 +318,59 @@
     }
   },
   "security_summary": {
-    "unique_cves_fixed": 91,
+    "unique_cves_fixed": 83,
     "kev_matches": 0,
     "latest_wave_date": "2026-03-24T00:00:00Z",
     "kev_cve_list": []
   },
   "beta_releases": {
-    "latest_wave": "2026-03-18",
-    "macos": null,
-    "ios": null,
-    "ipados": null,
-    "tvos": null,
-    "watchos": null,
-    "visionos": null
+    "latest_wave": "2026-03-30",
+    "macos": {
+      "version": "26.5 beta",
+      "build": "25F5042g",
+      "released": "2026-03-30"
+    },
+    "ios": {
+      "version": "26.5 beta",
+      "build": "23F5043g",
+      "released": "2026-03-30"
+    },
+    "ipados": {
+      "version": "26.5 beta",
+      "build": "23F5043g",
+      "released": "2026-03-30"
+    },
+    "tvos": {
+      "version": "26.5 beta",
+      "build": "23L5443g",
+      "released": "2026-03-30"
+    },
+    "watchos": {
+      "version": "26.5 beta",
+      "build": "23T5541h",
+      "released": "2026-03-30"
+    },
+    "visionos": {
+      "version": "26.5 beta",
+      "build": "23O5441g",
+      "released": "2026-03-30"
+    }
   },
   "recent_releases": [
+    {
+      "release_date": "2026-03-24",
+      "name": "Safari 26.4",
+      "platform": "safari",
+      "version": "26.4",
+      "url": "https://support.apple.com/en-us/126800"
+    },
+    {
+      "release_date": "2026-03-24",
+      "name": "Xcode 26.4",
+      "platform": "other",
+      "version": "26.4",
+      "url": "https://support.apple.com/en-us/126801"
+    },
     {
       "release_date": "2026-03-24",
       "name": "iOS 18.7.7 and iPadOS 18.7.7",
@@ -394,20 +432,6 @@
       "platform": "watchos",
       "version": "26.4",
       "url": "https://support.apple.com/en-us/126798"
-    },
-    {
-      "release_date": "2026-03-24",
-      "name": "watchOS 5.3.10",
-      "platform": "watchos",
-      "version": "5.3.10",
-      "url": "https://support.apple.com/en-us/100100"
-    },
-    {
-      "release_date": "2026-03-24",
-      "name": "watchOS 8.8.2",
-      "platform": "watchos",
-      "version": "8.8.2",
-      "url": "https://support.apple.com/en-us/100100"
     }
   ]
 }
