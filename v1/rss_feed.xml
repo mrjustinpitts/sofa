@@ -6,12 +6,19 @@
     <description>Simple Organized Feed for Apple Software Updates - Security releases and updates</description>
     <language>en-us</language>
     <generator>SOFA RSS Generator 2.0</generator>
-    <lastBuildDate>Mon, 30 Mar 2026 20:20:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 01:00:41 +0000</lastBuildDate>
     <image>
       <url>https://sofa.macadmins.io/images/custom_logo.png</url>
       <title>SOFA</title>
       <link>https://sofa.macadmins.io</link>
     </image>
+    <item>
+      <title>Xcode 26.5 beta (17F5012f)</title>
+      <link>https://developer.apple.com/go/?id=xcode-26_5-sdk-rn</link>
+      <description>Developer Beta Release for Xcode&lt;br&gt;New features and improvements preview&lt;br&gt;Build Number: 17F5012f&lt;br&gt;Bug Reporting: Use Feedback Assistant app&lt;br&gt;Access: Requires Apple Developer Program or Beta Software Program&lt;br&gt;More Details: &lt;a href=&quot;https://sofa.macadmins.io/beta-releases&quot;&gt;https://sofa.macadmins.io/beta-releases&lt;/a&gt;</description>
+      <guid isPermaLink="false">Beta_Xcode_26.5_beta_(17F5012f)_26.5 beta</guid>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>iOS 26.5 beta (23F5043g)</title>
       <link>https://developer.apple.com/go/?id=ios-26_5-rn</link>
@@ -225,21 +232,21 @@
     <item>
       <title>iOS 26.3 and iPadOS 26.3</title>
       <link>https://support.apple.com/en-us/126346</link>
-      <description>Vulnerabilities Addressed: 41&lt;br&gt;Exploited CVE(s): 3&lt;br&gt;Apple Security Bulletin: &lt;a href=&quot;https://support.apple.com/en-us/126346&quot;&gt;https://support.apple.com/en-us/126346&lt;/a&gt;&lt;br&gt;Security Details: &lt;a href=&quot;https://sofa.macadmins.io/ios/ios17&quot;&gt;https://sofa.macadmins.io/ios/ios17&lt;/a&gt;</description>
+      <description>Vulnerabilities Addressed: 46&lt;br&gt;Exploited CVE(s): 3&lt;br&gt;Apple Security Bulletin: &lt;a href=&quot;https://support.apple.com/en-us/126346&quot;&gt;https://support.apple.com/en-us/126346&lt;/a&gt;&lt;br&gt;Security Details: &lt;a href=&quot;https://sofa.macadmins.io/ios/ios17&quot;&gt;https://sofa.macadmins.io/ios/ios17&lt;/a&gt;</description>
       <guid isPermaLink="false">iOS_OS_26.3</guid>
       <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>macOS Sequoia 15.7.4</title>
       <link>https://support.apple.com/en-us/126349</link>
-      <description>Vulnerabilities Addressed: 35&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Apple Security Bulletin: &lt;a href=&quot;https://support.apple.com/en-us/126349&quot;&gt;https://support.apple.com/en-us/126349&lt;/a&gt;&lt;br&gt;Security Details: &lt;a href=&quot;https://sofa.macadmins.io/macos/sequoia&quot;&gt;https://sofa.macadmins.io/macos/sequoia&lt;/a&gt;</description>
+      <description>Vulnerabilities Addressed: 37&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Apple Security Bulletin: &lt;a href=&quot;https://support.apple.com/en-us/126349&quot;&gt;https://support.apple.com/en-us/126349&lt;/a&gt;&lt;br&gt;Security Details: &lt;a href=&quot;https://sofa.macadmins.io/macos/sequoia&quot;&gt;https://sofa.macadmins.io/macos/sequoia&lt;/a&gt;</description>
       <guid isPermaLink="false">macOS_OS_15.7.4</guid>
       <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>macOS Sonoma 14.8.4</title>
       <link>https://support.apple.com/en-us/126350</link>
-      <description>Vulnerabilities Addressed: 41&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Apple Security Bulletin: &lt;a href=&quot;https://support.apple.com/en-us/126350&quot;&gt;https://support.apple.com/en-us/126350&lt;/a&gt;&lt;br&gt;Security Details: &lt;a href=&quot;https://sofa.macadmins.io/macos/sonoma&quot;&gt;https://sofa.macadmins.io/macos/sonoma&lt;/a&gt;</description>
+      <description>Vulnerabilities Addressed: 44&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Apple Security Bulletin: &lt;a href=&quot;https://support.apple.com/en-us/126350&quot;&gt;https://support.apple.com/en-us/126350&lt;/a&gt;&lt;br&gt;Security Details: &lt;a href=&quot;https://sofa.macadmins.io/macos/sonoma&quot;&gt;https://sofa.macadmins.io/macos/sonoma&lt;/a&gt;</description>
       <guid isPermaLink="false">macOS_OS_14.8.4</guid>
       <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
     </item>
